@@ -1,0 +1,23 @@
+# Created by .ignore support plugin (hsz.mobi)
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+# pyenv
+.python-version
+# celery beat schedule file
+celerybeat-schedule
+# SageMath parsed files
+*.sage.py
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
